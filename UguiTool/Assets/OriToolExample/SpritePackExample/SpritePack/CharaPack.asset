@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffb149eb3bb8de343a0a5b40d23ff988, type: 3}
+  m_Name: CharaPack
+  m_EditorClassIdentifier: 
+  ObjectsOrFolderPath:
+  - {fileID: 102900000, guid: a03d4f7bc2eb89140b4c78037b9fba53, type: 3}
+  _sprites:
+  - {fileID: 21300000, guid: e1ec423e78c8daa41835fdfb2c727bf5, type: 3}
+  - {fileID: 21300000, guid: 8b546e249a92f0846b383d868670ca8f, type: 3}
+  - {fileID: 21300000, guid: 2fe79336021a8924883cc87e5cb57f23, type: 3}
+  - {fileID: 21300000, guid: 29fb7d210d90adf43bff0bd7b7247b81, type: 3}
+  - {fileID: 21300000, guid: acbe5dfa3264e7a43850d85e697e93a9, type: 3}
+  - {fileID: 21300000, guid: 610c98a3cabe126448ecc3428b51ceb2, type: 3}
+  - {fileID: 21300000, guid: a5fcdd9da601ea546a38a1b22591fd48, type: 3}
+  - {fileID: 21300000, guid: 8dd3fa12e366f254ca1809526ab3fbe9, type: 3}
+  - {fileID: 21300000, guid: 2c5806fd792c21b43b69c97991545659, type: 3}
+  - {fileID: 21300000, guid: 5d2887ed031571047bf78b32605e5593, type: 3}
