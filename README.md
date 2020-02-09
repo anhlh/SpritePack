@@ -21,3 +21,22 @@ var bullet = GOPoolManager.Get<Bullet>(bulletEmitParent);
 //Put to cache
 GOPoolManager.Put(bullet);
 ```
+
+# SpritePack
+A simple way to manage Sprites.
+
+Create SpritePack in editor. Drag and drop sprite or folder to SpritePack
+SpritePack can be loaded in Resources or AssetBundle, or set in Inspector
+Retrive sprite at runtime by spriteName or Sprite
+
+```
+[SerializeField] private Image charaImage;
+[SerializeField] private SpritePack charaPack;//Link in Inspector
+
+var rand = Random.Range(0, charaPack.Sprites.Length);
+charaImage.sprite = charaPack.Sprites[rand];
+```
+or
+```
+charaImage.sprite = charaPack.GetSprite("SPRITE_NAME");
+```
