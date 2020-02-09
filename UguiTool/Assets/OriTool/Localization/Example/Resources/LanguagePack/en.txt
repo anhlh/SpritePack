@@ -1,0 +1,14 @@
+﻿TapToStart=TAP TO START
+Japanese=Japanese
+English=English
+Yes=Yes
+No=No
+OK=OK
+Close=Close
+Confirm=Confirm
+Error=Error
+Password=Password
+Back=Back
+Retry=Retry
+
+HelloWorld=Hello World!!
