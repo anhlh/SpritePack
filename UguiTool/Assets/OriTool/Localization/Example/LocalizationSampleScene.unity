@@ -540,6 +540,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textMeshProUgui: {fileID: 1164528428}
+  btnEn: {fileID: 2011197656}
+  btnJp: {fileID: 372808014}
 --- !u!1 &864107523
 GameObject:
   m_ObjectHideFlags: 0
