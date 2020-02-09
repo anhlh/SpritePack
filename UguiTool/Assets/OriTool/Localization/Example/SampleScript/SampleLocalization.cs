@@ -3,7 +3,6 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-
 namespace OriTool.Example.Localization
 {
     public class SampleLocalization : MonoBehaviour, IEventChangeLanguage
